@@ -25,7 +25,7 @@ To open the dashboard, download `UBER_DASHBOARD.pbix` and open it in [Power BI D
 
 The landing page. It gives a quick health check of the whole month: total bookings, total booking value, how bookings break down by status, and how ride volume moves day to day.
 
-![Overall page](images/overall.png)
+![Overall page](overall.png)
 
 - **20,407** total bookings with a combined booking value of about **₹1.11 crore (11,148,671)**
 - About **62%** of bookings were completed successfully
