@@ -36,7 +36,7 @@ The landing page. It gives a quick health check of the whole month: total bookin
 
 A side-by-side look at all seven vehicle categories: Prime Sedan, Prime SUV, Prime Plus, Mini, Auto, Bike and E-Bike.
 
-![Vehicle type page](images/vehicle-type.png)
+![Vehicle type page](vehicle-type.png)
 
 - Total booking value is almost identical across categories, so no single vehicle type dominates
 - Success booking value ranges from about 935K (Prime Plus) to about 1M (Prime Sedan)
@@ -46,7 +46,7 @@ A side-by-side look at all seven vehicle categories: Prime Sedan, Prime SUV, Pri
 
 Where the money comes from, by payment method and by day.
 
-![Revenue page](images/revenue.png)
+![Revenue page](revenue.png)
 
 - **Cash** is the biggest payment method (close to 4M), followed by **UPI** (about 2.8M)
 - Credit and debit cards together make up a very small share
@@ -57,7 +57,7 @@ Where the money comes from, by payment method and by day.
 
 This page digs into the problem on the overall page: why so many rides don't finish.
 
-![Cancellation page](images/cancellation.png)
+![Cancellation page](cancellation.png)
 
 - **5,735** cancelled bookings out of 20,407, giving a **cancellation rate of 28.10%**
 - **12,652** bookings were completed successfully
@@ -68,7 +68,7 @@ This page digs into the problem on the overall page: why so many rides don't fin
 
 Average driver and customer ratings for each vehicle type.
 
-![Ratings page](images/ratings.png)
+![Ratings page](ratings.png)
 
 - Both driver and customer ratings are very consistent, sitting right around **4.0** out of 5
 - The spread across vehicle types is tiny (3.98 to 4.02), so ratings don't really separate the categories
@@ -119,9 +119,9 @@ Average driver and customer ratings for each vehicle type.
 
 ## About me
 
-Made by **<Your Name>** as part of my data analyst portfolio.
+Made by **<Surya Bhola>** as part of my data analyst portfolio.
 
-- LinkedIn: <your-linkedin-link>
-- Email: <your-email>
+- LinkedIn: <linkedin/suryabhola-da>
+- Email: <isuryabhola@gmail.com>
 
 If you have feedback or suggestions, feel free to open an issue or reach out.
